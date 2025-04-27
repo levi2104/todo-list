@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Girloy";
+}
+
+::selection{
+  color: rgb(231, 131, 37);
+}
+
+.hyphenate {
+  hyphens: auto;
+  word-break: break-word;
+}
