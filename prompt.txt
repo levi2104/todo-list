@@ -1,0 +1,20 @@
+** GptUseRef.md ** jesa breakdown hona chaiye
+
+very low level breakdown k liye: 
+
+iska very low level breakdown kar taaki internally kya kya ho rha h and kese ho rha h vo pata lage.
+
+
+/////////////////////////////////////////////////////////
+
+Agar tu chahta hai ki main kisi bhi code ko start se end tak step-by-step explain karu, har ek line aur har ek word ka meaning samjhau, taaki tera ek bhi doubt na rahe, to tu mujhe ye prompt de sakta hai:
+
+"Is code ka har ek part, har ek word, step by step start se end tak explain kar in hinglish(not hindi), taaki mujhe sab kuch 100% samajh aaye. Koi bhi chhoti si chhoti cheez skip mat karna. Har ek syntax aur logic kyun use ho raha hai, woh bhi bata."
+
+Agar tu chahta hai ki aur zyada detail me samjhaye jaaye, to aise likh sakta hai:
+
+"Is code ki ek ek line ka breakdown kar in hinglish(not hindi), jisme syntax, logic, aur har ek keyword ka kaam samjh aaye. Mujhe aisa feel ho ki maine ye code khud likha hai, har ek cheez clear ho gayi hai."
+
+Agar tu flowchart, diagram, ya visualization chahiye to bata sakta hai, jaise:
+
+"Is code ka breakdown ke saath ek flowchart ya diagram bhi bana, taaki mujhe aur achche se samajh aaye."
